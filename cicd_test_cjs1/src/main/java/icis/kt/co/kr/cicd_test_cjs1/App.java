@@ -12,5 +12,7 @@ public class App
         System.out.println( "add 1!" );
         System.out.println( "add 2!" );
         System.out.println( "ait-1.0.0 bugfix!" );
+        System.out.println( "ait-1.0.1 bugfix!" );
+        System.out.println( "add test!" );
     }
 }
