@@ -15,5 +15,6 @@ public class App
         System.out.println( "ait-1.0.1 bugfix!" );
         System.out.println( "add test!" );
         System.out.println( "add test2!" );
+        System.out.println( "add test3!" );
     }
 }
